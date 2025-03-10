@@ -649,7 +649,7 @@ svg {
 
 }
 
-.sinif-checkbox:checked .pri-spa {
+.sinif-checkbox:checked span {
   background-color: #404bbf;
   border: none;
   fill: #F4F4FD;
