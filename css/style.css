@@ -649,9 +649,9 @@ svg {
 
 }
 
-.sinif-checkbox:checked {
+.sinif-checkbox:checked .pri-spa {
   background-color: #404bbf;
   border: none;
   fill: #F4F4FD;
-  
+
 }
