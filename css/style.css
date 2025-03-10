@@ -619,3 +619,20 @@ svg {
   border-color: #4D5AE5
   
 }
+
+.div-bolum2 {
+  margin-bottom: 24px;
+
+}
+
+.sinif-checkbox {
+  visibility: visually-hidden;
+}
+
+.lbl-pri {
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: 0.04em;
+  color: #8e8f99;
+  
+}
