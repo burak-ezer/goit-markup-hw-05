@@ -497,6 +497,7 @@ svg {
 }
 
 .but-on {
+  min-width: 24px;
   position: absolute;
   top: 24px;
   right: 24px;
