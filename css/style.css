@@ -553,6 +553,10 @@ svg {
 
 }
 
+label {
+  margin:0;
+}
+
 .name-lbl {
   font-size: 12px;
   line-height: 1.17;
