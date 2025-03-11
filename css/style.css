@@ -597,7 +597,7 @@ label {
   
 }
 
-.name-in:focus .icon-2{
+.name-in:focus + .icon-2{
   fill: #4D5AE5;
   
 }
