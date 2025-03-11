@@ -4,6 +4,10 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 header {
   font-weight: 700;
   font-size: 18px;
