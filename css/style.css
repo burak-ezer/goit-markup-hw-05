@@ -597,12 +597,12 @@ label {
 
 }
 
-.name-in:focus {
+.nam-in:focus {
   border-color: #4D5AE5;
   
 }
 
-.name-in:focus + .icon-2{
+.nam-in:focus + .icon-2{
   fill: #4D5AE5;
   
 }
