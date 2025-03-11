@@ -490,6 +490,7 @@ svg {
 }
 
 .modal-container {
+  
   position: absolute;
   background-color: #fcfcfc;
   width: 408px;
