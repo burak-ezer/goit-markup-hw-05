@@ -496,7 +496,7 @@ svg {
   padding: 72px 24px 24px 24px;
 }
 
-.buton-1 {
+.but-on {
   position: absolute;
   top: 24px;
   right: 24px;
@@ -514,21 +514,21 @@ svg {
 
 }
 
-.buton-1:hover {
+.but-on:hover {
   background-color: #404bbf;
   border: none;
 }
 
-.buton-1:focus {
+.but-on:focus {
   background-color: #404bbf;
   border: none;
 }
 
-.buton-1:hover svg{
+.but-on:hover svg{
   fill: #ffffff;
 }
 
-.buton-1:focus svg{
+.but-on:focus svg{
   fill: #ffffff;
 }
 
