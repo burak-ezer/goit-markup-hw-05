@@ -474,6 +474,7 @@ svg {
 }
 
 .modal-window {
+  
   position: fixed;
   z-index: 2;
   top: 0;
@@ -490,7 +491,7 @@ svg {
 }
 
 .modal-container {
-  
+
   position: absolute;
   background-color: #fcfcfc;
   width: 408px;
